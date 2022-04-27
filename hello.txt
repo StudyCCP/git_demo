@@ -12,6 +12,5 @@ hello study!hello git
 hello study!hello git
 hello study!hello git
 hello study!hello git
-hello study!hello git master test
 hello study!hello git
 
